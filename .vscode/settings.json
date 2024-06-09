@@ -1,0 +1,12 @@
+{
+  "java.project.sourcePaths": [
+    "src",
+    "problem_3",
+    "problem_2",
+    "problem_1",
+    "problem_0",
+    "problem_4"
+  ],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": ["lib/**/*.jar"]
+}
