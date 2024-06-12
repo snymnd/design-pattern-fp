@@ -14,7 +14,7 @@ Codingan yang dibuat **Dumdum**🐣 juga kurang tepat menurut sang atasan karena
 
 [4] Silakan **kembangkan** code yang telah dibuat Dumdum🐣 dengan menerapkan **design pattern** yang dipilih beserta **prinsip-prinsip perangkat lunak yang telah dipelajari (codingan)**
 
-[challange] Tambahkan metode pembayaran Emoney pada code baru yang dibuat.
+[challange] Tambahkan class Order untuk menambahkan pesanan pengguna ke dalam database
 
 ### Link Penting
 
